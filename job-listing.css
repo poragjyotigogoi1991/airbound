@@ -15,3 +15,18 @@ p {
 .ashby-department-heading {
   display: none;
 }
+
+._container_dea4p_28._section_1dvh9_340 {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+@media (max-width: 992px) {
+  ._container_dea4p_28._section_1dvh9_340 {
+    grid-template-columns: 1fr;
+  }
+}
