@@ -10,6 +10,7 @@ p {
 ._titles_dea4p_33 {
   display: flex;
   flex-direction: column-reverse;
+  justify-content: flex-end;
 }
 
 .ashby-department-heading {
